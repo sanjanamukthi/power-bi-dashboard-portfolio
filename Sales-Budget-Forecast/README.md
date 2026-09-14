@@ -23,4 +23,10 @@ Interactive Power BI dashboard developed during college training to analyze sale
 
 ## Dashboard Preview
 
-![Sales Budget Forecast Dashboard](./sales-budget-forecast-dashboard.png)
+### Overview
+
+![Sales Budget Forecast Overview](./sales-budget-forecast-overview.png)
+
+### Detailed Analysis
+
+![Sales Budget Forecast Analysis](./sales-budget-forecast-analysis.png)
