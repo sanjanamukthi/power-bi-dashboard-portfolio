@@ -19,7 +19,7 @@ Interactive Power BI dashboard developed during college training to analyze HR-r
 - Microsoft Power BI
 - Data visualization
 - Business analytics
-- 
+
 ## Dashboard Preview
 
 ![HR Analytics Dashboard](./hr-analytics-dashboard.png)
