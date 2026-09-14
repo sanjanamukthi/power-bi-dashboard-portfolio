@@ -2,17 +2,20 @@
 
 ## Overview
 
-Interactive Power BI dashboard developed during college training to analyze retail performance and identify major contributors using Pareto analysis.
+Interactive Power BI dashboard developed during college training to analyze sales revenue, Pareto contribution, and performance against targets.
 
 ## Analysis Covered
 
-- Retail performance analysis
-- Outlet-wise analysis
-- Product-wise analysis
-- Cumulative Pareto percentage
-- Contribution analysis
-- Deviation from target
-- Interactive filtering and KPI visualization
+- Sales revenue analysis
+- Pareto analysis and cumulative percentage
+- Adjustable cumulative percentage threshold
+- Brand-wise analysis
+- Product Group analysis
+- State-wise analysis
+- Plant-wise analysis
+- Sales revenue trends by date
+- Deviation from target analysis
+- Interactive date and dimension filters
 
 ## Tools Used
 
@@ -20,6 +23,7 @@ Interactive Power BI dashboard developed during college training to analyze reta
 - Data visualization
 - Business analytics
 - Pareto analysis
+- Interactive reporting
 
 ## Dashboard Preview
 
